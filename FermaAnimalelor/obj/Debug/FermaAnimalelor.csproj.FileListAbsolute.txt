@@ -1,0 +1,12 @@
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe.config
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.csprojResolveAssemblyReference.cache
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.pdb
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.exe
+C:\Users\Virgil\Source\Repos\probleme\Interfete si clase abstracte\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.pdb
+C:\Users\Virgil\Source\Repos\Ferma Animalelor\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe.config
+C:\Users\Virgil\Source\Repos\Ferma Animalelor\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.exe
+C:\Users\Virgil\Source\Repos\Ferma Animalelor\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.pdb
+C:\Users\Virgil\Source\Repos\Ferma animalelor Virgil\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe.config
+C:\Users\Virgil\Source\Repos\Ferma animalelor Virgil\FermaAnimalelor\obj\Debug\FermaAnimalelor.exe
+C:\Users\Virgil\Source\Repos\Ferma animalelor Virgil\FermaAnimalelor\obj\Debug\FermaAnimalelor.pdb
